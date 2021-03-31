@@ -1,0 +1,147 @@
+[
+  {
+    "backcolor": "#000000",
+    "name": "OEM Neutrino V1.2.2 Reduced",
+    "author": "Cruicible",
+    "background": {
+      "name": "PBT Black",
+      "style": "background-image: url('/bg/plastic/pbt-black.png');"
+    },
+    "radii": "20px",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-11Nx",
+    "plate": true
+  },
+  [
+    {
+      "c": "#000000",
+      "t": "#ffffff",
+      "p": "OEM",
+      "sm": "cherry",
+      "sb": "gateron",
+      "st": "KS-3-Black",
+      "a": 7,
+      "f": 2
+    },
+    "~ `",
+    "1 !",
+    "2 @",
+    "3 #",
+    "4 $",
+    "5 %",
+    "6 ^",
+    "7 &",
+    "8 *",
+    "9 (",
+    "0 )",
+    "_ -",
+    "+ =",
+    {
+      "w": 2
+    },
+    "BACKSPACE"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "TAB",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    "{ [",
+    "} ]",
+    {
+      "w": 1.5
+    },
+    "| \\"
+  ],
+  [
+    {
+      "w": 1.25,
+      "w2": 1.75,
+      "l": true
+    },
+    "LOCK",
+    {
+      "x": 0.5
+    },
+    "A",
+    "S",
+    "D",
+    "F",
+    "G",
+    "H",
+    "J",
+    "K",
+    "L",
+    ": ;",
+    "\" '",
+    {
+      "w": 2.25
+    },
+    "RETURN"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "SHIFT",
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    "< ,",
+    "> .",
+    "? /",
+    {
+      "w": 2.75
+    },
+    "SHIFT"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "CONTROL",
+    {
+      "w": 1.25
+    },
+    "SUPER",
+    {
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "w": 6.25
+    },
+    "",
+    {
+      "w": 1.25
+    },
+    "ALT",
+    {
+      "w": 1.25
+    },
+    "FUNC",
+    {
+      "w": 1.25
+    },
+    "CONTEXT",
+    {
+      "w": 1.25
+    },
+    "CONTROL"
+  ]
+]
