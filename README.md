@@ -5,9 +5,9 @@
 * Renders, materials, profile, etc will evolve as time continues
 ## TODO
 * PRIORITY IS TO FIX KLE BLENDER PLUGIN
-** THE ISSUE IS IN CONVERTING THE TEXT TOO A MESH
-** THIS IS AN IRREVERSABLE ACTION
-** RETAINING TEXT WILL ALLOW CORRECTIONS (HOPEFULLY)
+	* THE ISSUE IS IN CONVERTING THE TEXT TOO A MESH
+	* THIS IS AN IRREVERSABLE ACTION
+	* RETAINING TEXT WILL ALLOW CORRECTIONS (HOPEFULLY)
 * Fix keycap textures in preference of a rougher ABS or PBT
 * Render the keyset in different scenes
 * Attempt a render with alternate fonts 
